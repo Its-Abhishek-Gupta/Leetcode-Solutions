@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
