@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -48,8 +50,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
