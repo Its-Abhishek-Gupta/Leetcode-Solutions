@@ -17,6 +17,7 @@
 | [0001-two-sum](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,8 @@
 | [0070-climbing-stairs](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
