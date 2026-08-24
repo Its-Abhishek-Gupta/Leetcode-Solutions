@@ -10,11 +10,13 @@
 | [0258-add-digits](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
