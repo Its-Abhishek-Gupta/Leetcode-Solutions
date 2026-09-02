@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0258-add-digits) |
@@ -19,6 +20,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
