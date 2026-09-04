@@ -24,6 +24,7 @@
 | [0066-plus-one](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
