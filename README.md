@@ -24,6 +24,7 @@
 | [0066-plus-one](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0125-valid-palindrome](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -104,9 +107,18 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Its-Abhishek-Gupta/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
