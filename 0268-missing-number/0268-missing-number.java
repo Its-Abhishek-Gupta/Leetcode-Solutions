@@ -1,15 +1,20 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int miss = 0;
-        for(int i = 0 ; i <= nums.length ; i++){
-            boolean found = false;
-            for(int j = 0 ; j < nums.length ; j++){
-                if(nums[j] == i)
-                    found = true;
+        int i = 0 ;
+        while(i < nums.length){
+            int correct = nums[i];
+            if(i == correct || correct >= nums.length)
+                i++;
+            else{
+                int temp = nums[i];
+                nums[i] = nums[correct];
+                nums[correct] = temp;
             }
-            if(!found)
-                miss = i;
         }
-        return miss;
+        for(i = 0 ; i < nums.length ; i++){
+            if(i != nums[i])
+                return i;
+        }
+        return nums.length;
     }
 }
